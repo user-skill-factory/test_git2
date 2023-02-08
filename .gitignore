@@ -1,2 +1,11 @@
 main
 test_git
+/test_git2/x64/Debug
+/.vs/test_git2
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
+/test_git2/test_git2.vcxproj.user
+/test_git2/test_git2.vcxproj.filters
+/test_git2/.vs/test_git2/v17
+/test_git2/.vs/test_git2/FileContentIndex
